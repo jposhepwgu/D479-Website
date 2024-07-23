@@ -25,7 +25,7 @@ a:visited {
 
 @font-face {
     font-family: Malvie;
-    src: url("/fonts/malvie.woff");
+    src: url("fonts/malvie.woff");
 }
 
 .spacer {

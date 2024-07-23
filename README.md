@@ -1,2 +1,2 @@
-# [D479-Website](https://github.com/jposhepwgu/D479-Website)
+# [D479-Website](https://jposhepwgu.github.io/D479-Website/)
  
